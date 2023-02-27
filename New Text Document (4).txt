@@ -1,0 +1,21 @@
+mkdir create folder
+cd Open folder'
+Git status Where we are 
+git init MAster status
+git add add file to commit
+
+git log
+git commitg
+git push \
+
+Git remote add origin HTTPS
+
+
+
+
+add Picture
+git add "PName"
+git commit -m "[master]: add picture"
+Git push 
+
+
